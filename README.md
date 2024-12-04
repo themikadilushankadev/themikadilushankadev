@@ -11,7 +11,7 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> About me:<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 
-- 🌱 I’m currently learning to learn.
+- 🌱 I’m currently learning to java.
 - ⚡ Learning something new everyday keps my dopamine levels high.
 - 🎒 I'm a second-year student.
 - 🤝 I’m available for Java,Html & PHP
