@@ -17,7 +17,7 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 - 🤝 I’m available for Java,Html & PHP
 - 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:kgdthemikadilushanka@gmail.com)
 - ❤️ thank you so much for reading it ❤️
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=devthemika&label=Profile%20views&color=0e75b6&style=flat" alt="devthemika" /> </p>
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=themikadilushankadev&label=Profile%20views&color=0e75b6&style=flat" alt="themikadilushankadev" /> </p>
 <p align="center"> <a href="https://twitter.com/kgdtdilushanka" target="blank"><img src="https://img.shields.io/twitter/follow/kgdtdilushanka?logo=twitter&style=for-the-badge" alt="kgdtdilushanka" /></a> </p>
 
 <br/>
@@ -67,10 +67,13 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 
 <h2 align="center" style="margin: 5px 10px;"><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="30"> <br/><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Github stats:</h2> 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devthemika" alt="devthemika" /></a> </p>
-<br/>
-<p>&nbsp;<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=devthemika&show_icons=true&locale=en" alt="devthemika" /></p></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=themikadilushankadev" alt="themikadilushankadev" /></a> </p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=themikadilushankadev&show_icons=true&locale=en" alt="themikadilushankadev" /></p>
 
+<br/>
+<br/>
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=themikadilushankadev&" alt="themikadilushankadev" /></p>
 
 <br/>
 <p align="center">
