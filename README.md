@@ -70,12 +70,6 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=themikadilushankadev" alt="themikadilushankadev" /></a> </p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=themikadilushankadev&show_icons=true&locale=en" alt="themikadilushankadev" /></p>
 
-<br/>
-<br/>
-
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=themikadilushankadev&" alt="themikadilushankadev" /></p>
-
-<br/>
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
